@@ -3,7 +3,7 @@
 #include <map>
 #include <deque>
 #include <unordered_map>
-#include <optional>
+#include <optional> // IWYU pragma: keep
 
 namespace myex{
     struct OrderLocation{
